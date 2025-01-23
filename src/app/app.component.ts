@@ -7,7 +7,7 @@ import { NgOptimizedImage } from '@angular/common';
   standalone: true,
   imports: [RouterOutlet, NgOptimizedImage],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.scss'
+  styleUrl: './app.component.scss',
 })
 export class AppComponent {
   title = 'goftaar-coffee-house';
